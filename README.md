@@ -1,2 +1,2 @@
 # DemoWebsite
-demo website for testing purpose
+-basic html trial and testing page
